@@ -19,6 +19,15 @@ Software engineer with **3+ years** shipping production web apps, now deep in **
 
 ---
 
+### 🤝 Collaborative Projects
+
+Projects I've contributed to alongside other engineers:
+
+- 🔊 **[SoundSense](https://github.com/dhakalkamal/SoundSense)** — Contextual sound awareness for deaf/HoH users using CNN14 PANNs + LLM reasoning (FastAPI, PyTorch, OpenAI)
+- ☀️ **solarflow** *(private)* — AI-powered design-to-proposal automation for residential solar installers
+
+---
+
 ### 🛠️ Tech Stack
 
 **AI / ML**
