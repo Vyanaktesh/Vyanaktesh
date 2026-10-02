@@ -37,12 +37,6 @@ Software engineer with **3+ years** shipping production web apps, now deep in **
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyanaktesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyanaktesh&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
 
 ### 📬 Connect
 
